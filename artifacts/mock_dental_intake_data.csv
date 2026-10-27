@@ -1,1 +1,6 @@
-
+Appointment_ID,Patient_Name,Patient_Age,Primary_Dentist,Insurance_Provider,Appointment_Date_Time,Form_Completion_Status,Appointment_Status
+APT-5001,Sarah Jenkins,34,Dr. Aris,Delta Dental,2026-11-02 09:00:00,Completed,Confirmed
+APT-5002,Marcus Vance,52,Dr. Lee,Cigna,2026-11-02 10:00:00,Pending,No-Show
+APT-5003,David Miller,28,Dr. Aris,Guardian,2026-11-02 11:30:00,Completed,Completed
+APT-5004,Elena Rostova,41,Dr. Patel,MetLife,2026-11-02 13:00:00,Pending,Cancelled
+APT-5005,James Wilson,60,Dr. Lee,Aetna,2026-11-02 14:15:00,Completed,Confirmed
